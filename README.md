@@ -4,7 +4,7 @@
 ## App Setup
 
 <h2>git repository link : "https://github.com/Sandeep-551/Spotify-Clone.git"</h2> 
-
+<h2>Command Prompt Commands</h2>
 npm i
 
 npm run dev
