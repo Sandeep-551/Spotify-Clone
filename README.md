@@ -3,7 +3,7 @@
 
 ## App Setup
 
-git repository link : 
+<h2>git repository link : "https://github.com/Sandeep-551/Spotify-Clone.git"</h2> 
 
 npm i
 
